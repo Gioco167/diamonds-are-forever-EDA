@@ -14,7 +14,11 @@ Through statistical analysis and visualization, this project reveals a fascinati
 3. **The Clarity Trade-off:** Flawless diamonds (IF) are rare but small; heavily included diamonds (I1) are common but huge. The data shows the market consistently pays a premium for "Big and Imperfect" over "Small and Perfect."
 4. **The Science of Sparkle:** Total Depth % shows a **near-zero correlation** with price, suggesting that while depth is vital for brilliance, it is not a primary driver of market cost.
 
+### Key Finding: Carat vs Price
+Size is the biggest driver of price, with a massive 0.92 correlation.
 
+### The Quality Paradox
+As shown below, color and clarity don't always scale with price because people sacrifice quality for a higher carat weight.
 
 ## Visualizations Included
 * **Carat vs. Price Correlation:** Visualizing exponential price growth.
@@ -33,3 +37,4 @@ Through statistical analysis and visualization, this project reveals a fascinati
 * `analysis.py`: The Python script used to generate statistics and plots.
 * `plots/`: Exported high-resolution charts for the presentation.
 
+Database link: https://www.kaggle.com/datasets/shivam2503/diamonds
