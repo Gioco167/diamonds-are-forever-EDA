@@ -22,8 +22,8 @@ As shown below, color and clarity don't always scale with price because people s
 
 ## Visualizations Included
 * **Carat vs. Price Correlation:** Visualizing exponential price growth.
-* **Color & Clarity Boxplots:** Demonstrating the distribution of price across quality grades.
-* **Feature Heatmaps:** Showing the mathematical relationships between dimensions (x, y, z) and cost.
+* Price vs. depth
+* Price vs. width
 
 ## Tech Stack
 * **Language:** Python 3.13
